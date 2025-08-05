@@ -21,7 +21,7 @@ OPENAI_API_KEY=
 Clone the project
 
 ```bash
-  git clone https://github.com/gungho0619/next.js-chatgpt.git
+  git clone https://github.com/Igamingdev1/next.js-chatgpt.git
 ```
 
 Go to the project directory
@@ -60,4 +60,4 @@ React, Next.js, Next Auth, Radix-UI, OpenAI, Tailwind CSS, zustand
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](pontrue1031@gmail.com) or [telegram](https://t.me/casinodev1)
+If you have any feedback, please reach out to me via pontrue1031@gmail.com or [telegram](https://t.me/casinodev1)
