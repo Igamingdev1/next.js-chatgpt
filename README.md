@@ -56,8 +56,8 @@ React, Next.js, Next Auth, Radix-UI, OpenAI, Tailwind CSS, zustand
 
 ## Authors
 
-- [Flamingo](https://www.github.com/gungho0619)
+- [Webet](https://www.github.com/igamingdev1)
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](tzztson@gmail.com) or [telegram](https://t.me/gungho0619)
+If you have any feedback, please reach out to me via [mail](pontrue1031@gmail.com) or [telegram](https://t.me/casinodev1)
